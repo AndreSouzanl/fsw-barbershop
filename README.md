@@ -1,8 +1,8 @@
 # Aula Zero
 - [x] Setup do banco
 - [x] Seeding do banco (popular o banco)
-- [ ] Introdução ao next.js
-- [ ] Tailwind e shadon
+- [x] Introdução ao next.js
+- [x] Tailwind e shadon
 - [ ] Git Hooks
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
